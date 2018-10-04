@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [CS50]({{ "/" | relative_url }})
 
-Harvard University\\
+Buffalo Island Central\\
 2018–2019
