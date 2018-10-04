@@ -11,7 +11,7 @@
 ***
 
 * [Period 4]({{ "/periods/4" | relative_url }})
-* 
+ 
 
 ***
 
