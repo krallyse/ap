@@ -10,7 +10,7 @@
 
 ***
 
-* [Period 4]({{ "/periods/1.md" | relative_url }})
+* [Period 4]({{ "/periods/1" | relative_url }})
  
 
 ***
