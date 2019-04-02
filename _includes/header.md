@@ -1,4 +1,4 @@
 # [CS50]({{ "/" | relative_url }})
 
-Buffalo Island Central\\
-2018–2019
+Bauxite High School\\
+2019–2020
