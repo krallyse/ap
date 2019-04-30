@@ -10,8 +10,8 @@
 
 ***
 
-* [Period 1]({{ "/periods/4" | relative_url }})
-* [Period 2]
+* [Period 1]({{ "/periods/1" | relative_url }})
+* [Period 2]({{ "/periods/2" | relative_url }})
  
 
 ***
