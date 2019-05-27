@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Ranga&display=swap');
 
 
 body {
@@ -11,6 +11,7 @@ body {
 }
 aside {
   background-color: black;
+  font-family: 'lobster';
 }
 li {
   color: black;
