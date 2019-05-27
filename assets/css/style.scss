@@ -2,9 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+<link href="https://fonts.googleapis.com/css?family=Aclonica&display=swap" rel="stylesheet">
+
+
 body {
   background-color: lightgray;
-  font-family: Aclonica;
+  font-family:'Aclonica', sans-serif;
 }
 aside {
   background-color: black;
