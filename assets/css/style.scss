@@ -4,14 +4,20 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css?family=Cookie|Dancing+Script|Economica|Lobster|Press+Start+2P|Ranga|Rock+Salt|Sacramento|Satisfy|VT323&display=swap');
 
+header
+{
+  font-family: 'Press Start 2P', cursive;
+}
 
-body {
+body 
+{
   background-color: lightgray;
   font-family:'Ranga', cursive;
 }
-aside {
+aside 
+{
   background-color: black;
-  font-family: 'Press Start 2P', cursive;
+  font-family: 'Economica', cursive;
 }
 li {
   color: black;
